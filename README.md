@@ -5,3 +5,7 @@
 
 В качестве обучения были выбраны модели для сравнительного анализа: Random Forest, Lasso, Ridge.
 Для определения наилучшей модели были почитаны метрики R2 и RMSE.
+
+Результат показан на графике:
+![image](https://github.com/user-attachments/assets/7cd4f5de-d45b-491d-bab1-2aedab42758c)
+
